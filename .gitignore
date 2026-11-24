@@ -1,0 +1,32 @@
+# Generated Keil/uVision outputs
+Flash/
+Obj/
+Lst/
+DebugConfig/
+*.axf
+*.o
+*.crf
+*.d
+*.lst
+*.map
+*.dep
+*.plg
+*.lnp
+*.htm
+*.uvguix.*
+*.uvopt
+*.uvoptx
+*.uvproj.saved_uv4
+*.bak
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
